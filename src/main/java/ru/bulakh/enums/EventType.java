@@ -1,4 +1,4 @@
-package org.example.enums;
+package ru.bulakh.enums;
 
 public enum EventType {
     WEBINAR, MEETING, TRAINING;

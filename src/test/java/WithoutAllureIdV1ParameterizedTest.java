@@ -1,7 +1,7 @@
 import io.qameta.allure.Allure;
-import org.example.extension_v1.CustomAllureId;
-import org.example.enums.EventType;
-import org.example.enums.UserRole;
+import ru.bulakh.extension_v1.CustomAllureId;
+import ru.bulakh.enums.EventType;
+import ru.bulakh.enums.UserRole;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.EnumSource;

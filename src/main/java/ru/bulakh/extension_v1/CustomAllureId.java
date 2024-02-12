@@ -1,4 +1,4 @@
-package org.example.extension_v1;
+package ru.bulakh.extension_v1;
 
 import org.junit.jupiter.params.converter.ConvertWith;
 

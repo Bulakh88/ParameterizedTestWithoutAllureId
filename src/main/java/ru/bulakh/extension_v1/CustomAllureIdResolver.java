@@ -1,4 +1,4 @@
-package org.example.extension_v1;
+package ru.bulakh.extension_v1;
 
 import io.qameta.allure.Allure;
 import lombok.extern.slf4j.Slf4j;

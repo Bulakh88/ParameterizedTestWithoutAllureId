@@ -1,4 +1,4 @@
-package org.example.extension_v2;
+package ru.bulakh.extension_v2;
 
 import org.junit.jupiter.api.extension.ExtensionContext;
 import org.junit.jupiter.api.extension.ParameterContext;

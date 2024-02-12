@@ -1,4 +1,4 @@
-package org.example.enums;
+package ru.bulakh.enums;
 
 import lombok.AllArgsConstructor;
 
